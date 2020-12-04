@@ -2,5 +2,5 @@
 Mainly written as quick and dirty solutions.
 
 The goal with this was to:
-* Improve my C++ knowaledge
+* Improve my C++ skills
 * Learn Swift (I like C++ better ;) )
